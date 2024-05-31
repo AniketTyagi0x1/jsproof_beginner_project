@@ -15,7 +15,7 @@ NFT (Non-Fungible Token): An NFT, or Non-Fungible Token, is a unique digital ass
 
 ### Example of NFT 
 
-<img src="https://cdn.mos.cms.futurecdn.net/mpGh6USjRkE3dPQnF8tXRC-1200-80.jpg"
+<img src="https://cdn.mos.cms.futurecdn.net/mpGh6USjRkE3dPQnF8tXRC-1200-80.jpg">
 
 ### Example of NFT Meta-data
 
